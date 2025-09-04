@@ -1,0 +1,36 @@
+AI Scheduling Agent Case Study - Intern Assignment
+
+Medical Appointment Scheduling Agent
+  Automates Patient Booking
+  Reduces No Shows
+  Streamlines Clinic Operations
+
+Technical Requirements
+1. Patient Greeting - Collect Info - Data Validation
+2. Patient Lookup - Search in EMR (Electronic Medical Record)
+  Detect new/existing
+3. Smart Scheduling - 60(new) or 30(existing)
+4. Calendar Integration - Get available slots - File/API Management
+5. Insurance Collection - Capture carrier, member ID, group
+6. Appointment Confirmation - Export to excel, send confirmations
+7. Form Distribution - Email patient intake forms (only when 6: Yes)
+8. Reminder System - 3 Automated reminders - Scheduling and Tracking!
+  (Wil Handle 8 later...)
+
+Data Sources
+1. Patient DB - 50 patients
+2. Doctor Schedules - Excel File with Availablity - Create a dedicated Table
+3. Appointment Template - Form Template (Provided)
+
+Integrations Required
+1. Patient Data - Read from csv
+2. Calendar Management - Calendly Tool
+3. Communication - Email and SMS 
+4. Data Export - Generate excel reports for admin review
+
+
+
+To Do:
+Setup a DB
+Generate data of 50 users
+.....
