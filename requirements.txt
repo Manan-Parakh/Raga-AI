@@ -1,0 +1,10 @@
+ipykernel
+ipython
+dotenv
+ipywidgets
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+requests
+langgraph
